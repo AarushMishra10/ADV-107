@@ -1,0 +1,16 @@
+body{
+    font-family: 'Permanent Marker' ;
+    background-color: grey;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px red (151, 149,149);
+}
